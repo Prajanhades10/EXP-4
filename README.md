@@ -1,11 +1,11 @@
 # EXP-4
-EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+## EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+### AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+### THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -34,20 +34,49 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
-
-Half wave rectifier with filter:
-
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
 WAVEFORM:
 
+Half Wave:
+<img width="1370" height="866" alt="Screenshot 2026-03-19 223352" src="https://github.com/user-attachments/assets/949d9ea8-a9bc-4911-84ce-a5b586999bc9" />
+<img width="592" height="520" alt="Screenshot 2026-03-19 223403" src="https://github.com/user-attachments/assets/c813beed-efa4-42d1-95d9-ef83a1147114" />
+<img width="1370" height="874" alt="Screenshot 2026-03-19 223805" src="https://github.com/user-attachments/assets/492b2bed-486c-443d-bc79-ca4680d9087f" />
+<img width="803" height="690" alt="Screenshot 2026-03-19 223817" src="https://github.com/user-attachments/assets/347b905e-7b7b-4c6c-b992-c7c2853f2383" />
 
-RESULT:
+Full Wave:
+
+<img width="1368" height="872" alt="Screenshot 2026-03-19 224301" src="https://github.com/user-attachments/assets/8db459f3-4ecc-4616-8c9d-0e2c5f35567b" />
+<img width="675" height="560" alt="Screenshot 2026-03-19 224314" src="https://github.com/user-attachments/assets/6224cd39-5117-485a-85f9-af4e1436c875" />
+<img width="1371" height="867" alt="Screenshot 2026-03-19 224613" src="https://github.com/user-attachments/assets/c7cb937d-eb83-42e3-9785-b40c290c2fac" />
+<img width="641" height="583" alt="Screenshot 2026-03-19 224623" src="https://github.com/user-attachments/assets/4ff6a417-9918-42ce-8f46-c16a436c78dc" />
+
+### CIRCUIT DIAGRAMS
+
+Half wave rectifier with filter and without filter:
+![WhatsApp Image 2026-03-20 at 1 47 03 AM](https://github.com/user-attachments/assets/6c218fd9-37c7-4eb6-9c8e-0c55b340aee7)
+
+
+Model graph:
+![WhatsApp Image 2026-03-20 at 1 51 40 AM](https://github.com/user-attachments/assets/b1e96708-0d0e-4919-9488-c2c1bd92ee67)
+
+
+
+TABULAR COLUMN
+![WhatsApp Image 2026-03-20 at 1 48 11 AM](https://github.com/user-attachments/assets/4017e2af-bba3-4a5b-8aac-f5c6b1a1f07e)
+
+Full wave Rectifier without filter and with filter:
+![WhatsApp Image 2026-03-20 at 1 49 17 AM](https://github.com/user-attachments/assets/ff0ac02d-dd0a-4753-9a25-e4be34a818f5)
+
+
+Tabular Column
+![WhatsApp Image 2026-03-20 at 1 50 19 AM](https://github.com/user-attachments/assets/a0eff8a9-8c12-4a4a-9a3c-9729904d06fa)
+
+
+
+
+
+
+
+### RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
